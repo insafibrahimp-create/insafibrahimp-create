@@ -169,3 +169,48 @@ A collection of programming projects and development work completed during the C
 
 </tr>
 </table>
+<h2 align="center">🎓 Certifications & Learning</h2>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+<h3>🤖 Artificial Intelligence</h3>
+
+<ul>
+<li>Introduction to Artificial Intelligence — IBM / Coursera</li>
+<li>Introduction to Generative AI — Google Cloud / Coursera</li>
+<li>Responsible AI: Applying AI Principles — Google Cloud</li>
+</ul>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>☁️ AI & Cloud</h3>
+
+<ul>
+<li>AI Appreciate — Government of India × Intel</li>
+<li>AI Aware — Government of India × Intel</li>
+<li>Generative AI learning track — Google Cloud</li>
+</ul>
+
+</td>
+</tr>
+</table>
+
+<h2 align="center">📚 Currently Learning</h2>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-412991?style=for-the-badge&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
+<img src="https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+
+</p>
+
+<p align="center">
+  <i>Building • Learning • Developing • One project at a time.</i>
+</p>
