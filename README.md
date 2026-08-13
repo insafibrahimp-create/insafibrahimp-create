@@ -24,3 +24,12 @@
     width="49%"
   />
 </p>
+<h2 align="center">🔥 GitHub Streak</h2>
+
+<p align="center">
+  <img
+    src="./profile/streak.svg"
+    alt="GitHub Streak"
+    width="90%"
+  />
+</p>
