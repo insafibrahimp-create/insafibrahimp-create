@@ -93,3 +93,79 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 
 </p> 
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table align="center">
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🤖 AI Resume Writer</h3>
+
+AI-powered resume writer built with HTML, Groq API and Netlify.
+
+<strong>Tech:</strong> HTML • Groq API • Netlify
+
+<br><br>
+
+<a href="https://github.com/insafibrahimp-create/ai-resume-writer">
+  <img src="https://img.shields.io/badge/🔗%20View%20Project-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🎨 AI Sketch to Art</h3>
+
+AI-powered sketch-to-art converter with 6 brush types and 6 art styles.
+
+<strong>Tech:</strong> Python • AI
+
+<br><br>
+
+<a href="https://github.com/insafibrahimp-create/ai-sketch-to-art">
+  <img src="https://img.shields.io/badge/🔗%20View%20Project-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🛰️ ISL-GCS</h3>
+
+CanSat Ground Control Software for real-time telemetry monitoring, mission control and visualization.
+
+<strong>Tech:</strong> HTML • Ground Control • Telemetry
+
+<br><br>
+
+<a href="https://github.com/insafibrahimp-create/ISL-GCS">
+  <img src="https://img.shields.io/badge/🔗%20View%20Project-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>💻 CODSOFT</h3>
+
+A collection of programming projects and development work completed during the CODSOFT internship/program.
+
+<strong>Tech:</strong> Python
+
+<br><br>
+
+<a href="https://github.com/insafibrahimp-create/CODSOFT">
+  <img src="https://img.shields.io/badge/🔗%20View%20Project-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+</tr>
+</table>
