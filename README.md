@@ -11,3 +11,16 @@
     alt="Insaf Ibrahim GitHub Profile"
     src="https://raw.githubusercontent.com/insafibrahimp-create/insafibrahimp-create/main/light.svg">
 </picture>
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-sepia-alpha-88.vercel.app/api?username=insafibrahimp-create&show_icons=true&hide_rank=true"
+    width="49%"
+  />
+  <img
+    src="https://github-readme-stats-sepia-alpha-88.vercel.app/api/top-langs/?username=insafibrahimp-create&layout=compact"
+    width="49%"
+  />
+</p>
