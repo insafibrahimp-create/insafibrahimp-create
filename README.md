@@ -214,3 +214,33 @@ A collection of programming projects and development work completed during the C
 <p align="center">
   <i>Building • Learning • Developing • One project at a time.</i>
 </p>
+
+<h2 align="center">📫 Connect With Me</h2>
+
+<p align="center">
+
+<a href="https://github.com/insafibrahimp-create">
+  <img src="https://img.shields.io/badge/GitHub-insafibrahimp--create-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/insafibrahimp">
+  <img src="https://img.shields.io/badge/LinkedIn-Insaf%20Ibrahim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:Insafibrahimp@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/insafibrahim25">
+  <img src="https://img.shields.io/badge/Instagram-insafibrahim25-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+</p>
+
+<p align="center">
+  🌐 <strong>Portfolio:</strong> Coming Soon
+</p>
+
+<p align="center">
+  <i>Let's build something awesome together.</i> 🚀
+</p>
